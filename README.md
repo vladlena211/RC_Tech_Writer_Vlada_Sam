@@ -22,7 +22,7 @@
 2.	On the **User info** panel, scroll to roles field. In **Roles**  field, select **Admin** role in a drop-down list. Then click **Reset** button.
 **Note:** to remove admin role, click on **More options** icon and select **Remove Admin** option.
 
-## h2 How to delete a user
+How to delete a user
 
 1.	On User panel, select **Administrator-Users**.
 2.	On **User info** panel, click on **More options** icon and select **Delete** option.
