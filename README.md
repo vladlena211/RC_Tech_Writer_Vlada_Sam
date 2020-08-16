@@ -29,6 +29,6 @@
 
 # Task 2 Content Backlog Management
 I suggest the following flow:
-**Week 1** To update user guides after a previous build.	
-**Weeks 2-3** To update Administrator and Developer guides after a previous build.
-**Week 3** To prepare release notification for a current build for different product versions (Open Source and Paid versions). 
+ + **Week 1** To update user guides after a previous build.	
+ + **Weeks 2-3** To update Administrator and Developer guides after a previous build.
+ + **Week 3** To prepare release notification for a current build for different product versions (Open Source and Paid versions). 
